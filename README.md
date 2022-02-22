@@ -15,3 +15,4 @@ A repository of useful scripts for security researchers, bug bounty hunters, pen
 * amass
 * dnsgen
 * httprobe/httpx
+* XSStrike
