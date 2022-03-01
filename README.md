@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DFC302/Centipede/blob/main/istockphoto-941715732-170667a.jpg" />
+  <img src="https://github.com/DFC302/Centipede/blob/main/images/centipede.jpg" />
 </p>
        
 <h1 align="center">Centipede</h1>
